@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/HanaokaY/spa-sample-app-api
+[submodule "front"]
+  path = front
+  url = https://github.com/HanaokaY/spa-sample-app-front
